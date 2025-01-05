@@ -6,11 +6,11 @@ def readme():
 
 setup(
     name="logprog_lab1",
-    version="1.1.0",
+    version="1.1.1",
     description="logprog_lab1",
     author="regina_mikhailova",
     author_email="riga157@mail.ru",
-    url="https://github.com/tesllaaa/cat_website",
+    url="https://github.com/tesllaaa/logprog_lab1",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
